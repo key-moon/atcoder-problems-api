@@ -1,0 +1,16 @@
+{
+  "name": "atcoder-problems-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.62.0",
+    "rollup-plugin-typescript": "^1.0.1",
+    "typescript": "^4.5.4"
+  }
+}
